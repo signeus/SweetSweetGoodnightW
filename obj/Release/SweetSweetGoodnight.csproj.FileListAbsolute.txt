@@ -1,0 +1,11 @@
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\bin\Release\SweetSweetGoodnight.exe.config
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\bin\Release\SweetSweetGoodnight.exe
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\bin\Release\SweetSweetGoodnight.pdb
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\bin\Release\SuperSocket.ClientEngine.dll
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\bin\Release\WebSocket4Net.dll
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.SweetSweetGoodnight.resources
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.Properties.Resources.resources
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.csproj.GenerateResource.Cache
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.exe
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.pdb
+C:\Users\Signeus\Source\Repos\SweetSweetGoodnight\SweetSweetGoodnight\obj\Release\SweetSweetGoodnight.csprojResolveAssemblyReference.cache
